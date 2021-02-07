@@ -9,3 +9,5 @@ funtional components<br>
 jsx css<br>
 jsx javascript<br>
 props<br>
+# day 3 <br>
+build amazon best selling book page clone<br>
